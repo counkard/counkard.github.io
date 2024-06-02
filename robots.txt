@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://counkard.github.io/sitemap.html
+Sitemap: https://counkard.github.io/fa/sitemap.html
+Sitemap: https://counkard.github.io/fi/sitemap.html
+Sitemap: https://counkard.github.io/fu/sitemap.html
